@@ -28,8 +28,7 @@ Curious and adaptable, I’m also exploring **AI-powered applications**, while c
 |---------------------|-----------------------------------------------------------------------------|-----------|
 | **Stress Mastery**  | A **stress management web application** with mood tracking, questionnaires, therapist dashboards, and progress tracking. |  | 
 | **Notepad App**     | A lightweight **desktop application** for text editing with basic file operations, built in **Python**. | .[GitHub].(https://github.com/Sneha-rose/py-projects)|
-| **Graph Colouring** | A project demonstrating the **Graph Colouring Algorithm** for optimizing resource allocation in real-world problems. | 
- .[GitHub]. (https://github.com/Sneha-rose/py-projects)|
+| **Graph Colouring** | A project demonstrating the **Graph Colouring Algorithm** for optimizing resource allocation in real-world problems. |.[GitHub]. (https://github.com/Sneha-rose/py-projects)| 
 
 ---
 
