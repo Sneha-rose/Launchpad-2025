@@ -2,7 +2,7 @@
 
 ### About Me  
 
-I am **Sneha Rose Vinod**, a Computer Science and Engineering student at **Amal Jyothi College of Engineering (Autonomous) **.  
+I am **Sneha Rose Vinod**, a Computer Science and Engineering student at **Amal Jyothi College of Engineering (Autonomous)**.  
 Passionate about **software development, web technologies, and creative problem-solving**, I enjoy building applications that combine functionality with user-friendly design.  
 
 My journey includes internships and academic projects where I worked on **full-stack development, database management, and real-world problem solving**. I have hands-on experience with **Python, JavaScript, HTML/CSS and SQL**, along with tools like **Node JS GitHub, and Postman**.  
