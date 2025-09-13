@@ -15,20 +15,21 @@ Curious and adaptable, I’m also exploring **AI-powered applications**, while c
 
 ### 🔹 Internship Projects  
 
-| Name                     | Description                                                                 | Hosted Link | Repo Link |
-|--------------------------|-----------------------------------------------------------------------------|-------------|-----------|
-| **Room Booking System**  | A **hotel room booking platform** with user login, room selection, booking confirmations via email, and admin access for booking management. Developed during my internship at **Leopard Tech Labs**. | — | — |
-| **Event Management System** | A **role-based event management platform** for Admin, Organizers, and Attendees with event scheduling, booking, and participant management. Built as part of my internship at **Leopard Tech Labs**. | — | — |
+| Name                     | Description                                                                  | Repo Link |
+|--------------------------|-----------------------------------------------------------------------------|-----------|
+| **Room Booking System**  | A **hotel room booking platform** with user login, room selection, booking confirmations via email, and admin access for booking management. Developed during my internship at **Leopard Tech Labs**. |  .[GitHub]. (https://github.com/Sneha-rose/Leopard-Tech-Labs---Internship)|
+| **Event Management System** | A **role-based event management platform** for Admin, Organizers, and Attendees with event scheduling, booking, and participant management. Built as part of my internship at **Leopard Tech Labs**.| .[GitHub]. (https://github.com/Sneha-rose/Leopard-Tech-Labs---Internship) |
 
 ---
 
 ### 🔹 Academic & Personal Projects  
 
-| Name                | Description                                                                 | Hosted Link | Repo Link |
-|---------------------|-----------------------------------------------------------------------------|-------------|-----------|
+| Name                | Description                                                                | Repo Link |
+|---------------------|-----------------------------------------------------------------------------|-----------|
 | **Stress Mastery**  | A **stress management web application** with mood tracking, questionnaires, therapist dashboards, and progress tracking. |  | 
-| **Notepad App**     | A lightweight **desktop application** for text editing with basic file operations, built in **Python**. | .[GitHub].(https://github.com/Sneha-rose/py-projects/blob/main/notepad.py)|
-| **Graph Colouring** | A project demonstrating the **Graph Colouring Algorithm** for optimizing resource allocation in real-world problems. | — | — |
+| **Notepad App**     | A lightweight **desktop application** for text editing with basic file operations, built in **Python**. | .[GitHub].(https://github.com/Sneha-rose/py-projects)|
+| **Graph Colouring** | A project demonstrating the **Graph Colouring Algorithm** for optimizing resource allocation in real-world problems. | 
+ .[GitHub]. (https://github.com/Sneha-rose/py-projects)|
 
 ---
 
